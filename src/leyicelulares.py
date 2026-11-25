@@ -1,7 +1,7 @@
 """Act10 - Laboratorio de Programacion (LPR 5o Ano) - E.E.S.T. N. 100
 ACTIVIDAD 10 BIS - Simulador de Normativa de Celulares en el Aula (Ley 15.678)
 DOCENTE: Mansilla Munoz York Elxas
-ESTUDIANTE: [TU APELLIDO Y NOMBRE - COMPLETAR OBLIGATORIAMENTE]
+ESTUDIANTE: Cheheid Malek
 """
 
 print("##################################################")
