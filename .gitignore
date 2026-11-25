@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Editores y sistemas
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Salidas de ejecución
+*.log
